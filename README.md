@@ -1,7 +1,9 @@
 # 3LED-and-3button
 void setup() {
   pinMode(13, OUTPUT); // الليد الأول
+  
   pinMode(12, OUTPUT); // الليد الثاني
+  
   pinMode(11, OUTPUT); // الليد الثالث
 }
 
